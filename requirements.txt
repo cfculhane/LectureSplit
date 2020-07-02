@@ -1,0 +1,6 @@
+scenedetect
+opencv-python
+tqdm
+pytest
+Gooey
+pprintpp
