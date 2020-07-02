@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+tests/testdata/lecture.m4v
+
+# outputs
+/output
+/input
