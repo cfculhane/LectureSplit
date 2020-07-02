@@ -4,3 +4,4 @@ tqdm
 pytest
 Gooey
 pprintpp
+pyinstaller
